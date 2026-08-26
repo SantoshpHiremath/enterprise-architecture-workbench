@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1270.0" height="220" viewBox="0 0 1270.0 220" font-family="Arial, sans-serif">
+<rect x="0" y="0" width="1270.0" height="220" fill="#ffffff"/>
+<rect x="40.0" y="40" width="267.5" height="36" rx="6" fill="#dbeafe" stroke="#3b82f6"/>
+<text x="173.75" y="62" text-anchor="middle" font-size="12" fill="#1e3a8a">Legacy Production Scheduler</text>
+<rect x="347.5" y="40" width="267.5" height="36" rx="6" fill="#dbeafe" stroke="#3b82f6"/>
+<text x="481.25" y="62" text-anchor="middle" font-size="12" fill="#1e3a8a">Quality Reporting Dashboard</text>
+<rect x="655.0" y="40" width="267.5" height="36" rx="6" fill="#dbeafe" stroke="#3b82f6"/>
+<text x="788.75" y="62" text-anchor="middle" font-size="12" fill="#1e3a8a">Shopfloor MES Core</text>
+<rect x="962.5" y="40" width="267.5" height="36" rx="6" fill="#dbeafe" stroke="#3b82f6"/>
+<text x="1096.25" y="62" text-anchor="middle" font-size="12" fill="#1e3a8a">Undocumented Reporting Macro Tool</text>
+<rect x="40.0" y="160" width="267.5" height="36" rx="6" fill="#dcfce7" stroke="#22c55e"/>
+<text x="173.75" y="182" text-anchor="middle" font-size="12" fill="#14532d">Cloud Data Warehouse</text>
+<rect x="347.5" y="160" width="267.5" height="36" rx="6" fill="#dcfce7" stroke="#22c55e"/>
+<text x="481.25" y="182" text-anchor="middle" font-size="12" fill="#14532d">On-Prem SQL Cluster</text>
+<line x1="173.75" y1="76" x2="481.25" y2="160" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="481.25" y1="76" x2="173.75" y2="160" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="788.75" y1="76" x2="481.25" y2="160" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#64748b"/></marker></defs>
+</svg>

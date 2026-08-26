@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="226" viewBox="0 0 1160 226" font-family="Arial, sans-serif">
+<rect x="0" y="0" width="1160" height="226" fill="#ffffff"/>
+<text x="265.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2018</text>
+<line x1="220" y1="45" x2="220" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="355.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2019</text>
+<line x1="310" y1="45" x2="310" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="445.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2020</text>
+<line x1="400" y1="45" x2="400" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="535.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2021</text>
+<line x1="490" y1="45" x2="490" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="625.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2022</text>
+<line x1="580" y1="45" x2="580" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="715.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2023</text>
+<line x1="670" y1="45" x2="670" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="805.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2024</text>
+<line x1="760" y1="45" x2="760" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="895.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2025</text>
+<line x1="850" y1="45" x2="850" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="985.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2026</text>
+<line x1="940" y1="45" x2="940" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="1075.0" y="35" text-anchor="middle" font-size="12" fill="#334155">2027</text>
+<line x1="1030" y1="45" x2="1030" y2="206" stroke="#e2e8f0" stroke-width="1"/>
+<text x="10" y="71.0" font-size="12" fill="#0f172a">AI Quality Insights Service</text>
+<rect x="999.9" y="56" width="119.8" height="20" fill="#94a3b8" rx="2"/>
+<text x="10" y="105.0" font-size="12" fill="#0f172a">Cloud Data Warehouse</text>
+<rect x="669.9" y="90" width="449.7" height="20" fill="#34d399" rx="2"/>
+<text x="10" y="139.0" font-size="12" fill="#0f172a">Quality Reporting Dashboard</text>
+<rect x="617.2" y="124" width="502.4" height="20" fill="#34d399" rx="2"/>
+<text x="10" y="173.0" font-size="12" fill="#0f172a">Shopfloor MES Core</text>
+<rect x="309.9" y="158" width="809.7" height="20" fill="#34d399" rx="2"/>
+<rect x="220" y="204" width="10" height="10" fill="#94a3b8"/>
+<text x="234" y="213" font-size="10" fill="#334155">Plan</text>
+<rect x="330" y="204" width="10" height="10" fill="#60a5fa"/>
+<text x="344" y="213" font-size="10" fill="#334155">PhaseIn</text>
+<rect x="440" y="204" width="10" height="10" fill="#34d399"/>
+<text x="454" y="213" font-size="10" fill="#334155">Active</text>
+<rect x="550" y="204" width="10" height="10" fill="#fbbf24"/>
+<text x="564" y="213" font-size="10" fill="#334155">PhaseOut</text>
+<rect x="660" y="204" width="10" height="10" fill="#f87171"/>
+<text x="674" y="213" font-size="10" fill="#334155">EndOfLife</text>
+</svg>
