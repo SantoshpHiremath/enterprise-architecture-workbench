@@ -4,8 +4,8 @@ architecture management tooling generally) is built around: a typed,
 attributed record for an Application, IT Component, Business Capability,
 or Process, each with a lifecycle and relationships to other fact sheets.
 
-This does not connect to LeanIX. There is no LeanIX tenant or API key
-available in this environment. What's modeled here is the underlying
+This is a standalone model and does not connect to a LeanIX tenant.
+What's modeled here is the underlying
 data structure and the questions an architecture-assessment workflow
 actually needs answered: what exists, what stage of its lifecycle is it
 in, what does it depend on, and does the current landscape match the

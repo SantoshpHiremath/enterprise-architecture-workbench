@@ -1,10 +1,9 @@
 """
 A small, hand-built sample landscape modeled loosely on a
-manufacturing-IT-style application portfolio (MES, ERP integration,
+manufacturing-IT-style application landscape (MES, ERP integration,
 shop-floor data collection, reporting) -- entirely fictional company
-and system names, not real Siemens systems or data. Used to exercise
-the assessment and visualization code with a landscape that actually
-looks like the domain this posting is in.
+and system names. Used to exercise the assessment and visualization
+code with a landscape that looks like a manufacturing-IT domain.
 """
 from __future__ import annotations
 
